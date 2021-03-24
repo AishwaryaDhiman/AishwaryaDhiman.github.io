@@ -1,0 +1,19 @@
+
+  body {
+    background-color: #ffd3b6;
+  }
+
+  img {
+    width: 20%;
+    height: 20%;
+  }
+
+  dots {
+    height: 70px;
+    width: 70px;
+
+  }
+
+  h1{
+    color: blue;
+  }
